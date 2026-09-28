@@ -1,0 +1,11 @@
+# окружение и служебные файлы
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+catboost_info/
+.DS_Store
+
+# данные и материалы организаторов — в репозиторий не входят
+data/
+quickstart.ipynb
+sample_submission.csv
